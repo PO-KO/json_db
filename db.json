@@ -10,7 +10,7 @@
           "title": "Assiette american",
           "brief": "Lorem Ipsum is simply dummy text.",
           "price": "8.49",
-          "category": "hamburger",
+          "category": "pasta",
           "supplements": [
             {
               "id": "1",
@@ -83,7 +83,13 @@
           "id": "11",
           "title": "hamburger",
           "image": ""
+        },
+        {
+          "id": "12",
+          "title": "hamburger",
+          "image": ""
         }
+        
       ]
     },
     {
